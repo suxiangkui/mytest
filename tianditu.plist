@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.iinterest.net/demo/ota/icon.png</string>
+                   <string>http://uumstest.tianditu.com/mobileios/icon1.png</string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -41,7 +41,7 @@
                <key>subtitle</key>
                <string>Everlight</string>
                <key>title</key>
-               <string>Everlight-3.1（需越狱）</string>
+               <string>天地图手机版2.32</string>
            </dict>
        </dict>
    </array>
