@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://uumstest.tianditu.com/mobileios/tianditu.ipa</string>
+                   <string>https://github.com/suxiangkui/mytest/raw/master/shuiliad.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -33,15 +33,15 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.tianditu.map</string>
+               <string>com.ttsoft.shuili</string>
                <key>bundle-version</key>
-               <string>2.32</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>Everlight</string>
                <key>title</key>
-               <string>天地图手机版2.32</string>
+               <string>水雨情</string>
            </dict>
        </dict>
    </array>
